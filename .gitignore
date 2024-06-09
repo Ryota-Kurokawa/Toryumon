@@ -45,3 +45,9 @@ app.*.map.json
 /ios
 /android
 /build
+/web
+/macos
+/linux
+/windows
+/.dart_tool
+/.idea
